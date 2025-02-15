@@ -22,9 +22,9 @@ python3 generator.py
 ```
 <div style="display:flex">
      <div style="flex:1;padding-right:20px;">
-          <img src="https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e" width="100"/>
+          <img src="https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e" width="500"/>
      </div>
      <div style="flex:1;padding-left:20px;">
-          <img src="https://github.com/user-attachments/assets/33776fe1-bba7-4891-bd4a-2f2bf1e26cc2" width="100"/>
+          <img src="https://github.com/user-attachments/assets/33776fe1-bba7-4891-bd4a-2f2bf1e26cc2" width="500"/>
      </div>
 </div>
