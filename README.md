@@ -20,4 +20,5 @@ git clone https://github.com/leonardonels/TRACK_architect_project.git
 ```commandline
 python3 generator.py
 ```
-|`![generated_line_2](https://github.com/user-attachments/assets/c0499dab-7447-4f5a-ae90-86051b035f99)`|`![generated_line_3](https://github.com/user-attachments/assets/5debf66b-b29f-4cea-b7f0-20020843c380)`|
+![generated_line_2](https://github.com/user-attachments/assets/c0499dab-7447-4f5a-ae90-86051b035f99)
+![generated_line_3](https://github.com/user-attachments/assets/5debf66b-b29f-4cea-b7f0-20020843c380)
