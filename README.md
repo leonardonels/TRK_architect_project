@@ -21,7 +21,13 @@ git clone https://github.com/leonardonels/TRACK_architect_project.git
 python3 generator.py
 ```
 <p float="left">
-  ![generated_line_2](https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e)
+  <img src=![generated_line_2](https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e) />
   ![generated_line_3](https://github.com/user-attachments/assets/33776fe1-bba7-4891-bd4a-2f2bf1e26cc2)
+</p>
+
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
 </p>
 
