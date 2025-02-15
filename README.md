@@ -1,1 +1,22 @@
-# Simple Track Generator
+<div align="center">
+    <h1>Simple Track Generator (very simple!)</h1>
+</div>
+
+## :open_file_folder: What's in this repo
+
+* generator.py file with most of the code and a couple of changable params
+* utils/track_visualizer.py file used to plot the closest point found alongside the trajectory used and the odometry
+
+## :package: Prerequisite packages
+> What we need are pandas and numpy.
+
+```commandline
+sudo apt-get install python3-numpy python3-pandas -y
+```
+## :gear: How to build & Run
+```commandline
+git clone https://github.com/leonardonels/TRACK_architect_project.git
+```
+```commandline
+python3 generator.py
+```
