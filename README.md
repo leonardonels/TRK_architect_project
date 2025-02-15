@@ -20,14 +20,9 @@ git clone https://github.com/leonardonels/TRACK_architect_project.git
 ```commandline
 python3 generator.py
 ```
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e" width="50%" />
-  <img src="https://github.com/user-attachments/assets/33776fe1-bba7-4891-bd4a-2f2bf1e26cc2" width="50%" />
-</p>
-
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e" width="200"/>
+          <img src="https://github.com/user-attachments/assets/d23eac0e-7992-4a6a-a826-af1fe904a29e" width="300"/>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/user-attachments/assets/33776fe1-bba7-4891-bd4a-2f2bf1e26cc2" width="300"/>
