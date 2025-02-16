@@ -21,5 +21,12 @@ cd TRK_architect_project/
 ```commandline
 python3 generator.py
 ```
+<table><tr><td valign="top" width="100%">
+    <div align="center"><img src="https://github.com/user-attachments/assets/c0499dab-7447-4f5a-ae90-86051b035f99" align="center" style="width: 100%" /></div>
+    <div align="center"><img src="https://github.com/user-attachments/assets/5debf66b-b29f-4cea-b7f0-20020843c380" align="center" style="width: 100%" /></div>
+</td></tr></table> 
+
+<!--
 ![generated_line_2](https://github.com/user-attachments/assets/c0499dab-7447-4f5a-ae90-86051b035f99)
 ![generated_line_3](https://github.com/user-attachments/assets/5debf66b-b29f-4cea-b7f0-20020843c380)
+-->
