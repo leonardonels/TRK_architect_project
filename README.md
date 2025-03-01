@@ -15,8 +15,8 @@ sudo apt-get install python3-numpy python3-pandas -y
 ```
 ## :gear: How to build & Run
 ```commandline
-git clone https://github.com/leonardonels/TRK_architect_project.git
-cd TRK_architect_project/
+git clone https://github.com/leonardonels/track_architect_project.git
+cd track_architect_project/
 ```
 ```commandline
 python3 generator.py
